@@ -7,6 +7,9 @@ Initial Content Adding more Content ************
 tesssssstttttt
 
 
+amend messages --amend -m
+
+
 
 
 
