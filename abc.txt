@@ -12,9 +12,6 @@ amend messages --amend -m
 aaaaaaaaaaaaaaaa
 
 
-amend messages --amend -m
-
-
 
 
 
