@@ -4,7 +4,12 @@
 		HELLO ,, this is from touch abc.txt creation 
 
 Initial Content Adding more Content ************
-tesssssstttttt changggeeeesssss
+tesssssstttttt changggeeeesssss   here
+
+
+amend messages --amend -m
+
+aaaaaaaaaaaaaaaa
 
 
 amend messages --amend -m
